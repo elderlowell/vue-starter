@@ -29,10 +29,6 @@ const router = new VueRouter({
 
 const store = new Vuex.Store({
   state: {
-    new: [
-    ],
-    complaints: [
-    ],
   }
 })
 
