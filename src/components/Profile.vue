@@ -1,7 +1,7 @@
 <template>
   <div id="profile">
     <div class="container">
-      <h1 style="text-transform: capitalize">{{ $route.name }}</h1>
+      <h2 style="text-transform: capitalize">{{ $route.name }}</h2>
 
     </div>
   </div>
