@@ -1,5 +1,5 @@
 # vue-starter
-This repo is a starter project for Vue.js, including vue-router and vuex for state management.  BootstrapVue is included for styling. See [BootstrapVue](https://bootstrap-vue.js.org/docs) for details.  The UI has a navigation bar already pre-built with menu links to the current routes.
+This repo is a starter project for Vue.js, including vue-router and vuex for state management.<br>BootstrapVue is included for styling. See [BootstrapVue](https://bootstrap-vue.js.org/docs) for details.<br>The UI has a navigation bar already pre-built with menu links to the current routes.
 
 ## Project setup
 ```
