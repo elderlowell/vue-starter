@@ -2,7 +2,6 @@
   <div id="route">
     <div class="container pt-4">
       <h2 style="text-transform: capitalize">{{ $route.name }}</h2>
-
     </div>
   </div>
 </template>

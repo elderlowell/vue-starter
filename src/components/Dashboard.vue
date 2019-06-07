@@ -8,13 +8,7 @@
 
 <script>
 export default {
-  name: 'Dashboard',
-  data() {
-    return {
-    }
-  },
-  computed: {
-  }
+  name: 'Dashboard'
 }
 </script>
 
